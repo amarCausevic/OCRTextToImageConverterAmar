@@ -1,0 +1,15 @@
+C:\Users\Amar\Desktop\Workspace\OCRTextReadAmar\ImageReaderAmar\ImageReaderAmar\bin\Release\x86\leptonica-1.80.0.dll
+C:\Users\Amar\Desktop\Workspace\OCRTextReadAmar\ImageReaderAmar\ImageReaderAmar\bin\Release\x86\tesseract41.dll
+C:\Users\Amar\Desktop\Workspace\OCRTextReadAmar\ImageReaderAmar\ImageReaderAmar\bin\Release\x64\leptonica-1.80.0.dll
+C:\Users\Amar\Desktop\Workspace\OCRTextReadAmar\ImageReaderAmar\ImageReaderAmar\bin\Release\x64\tesseract41.dll
+C:\Users\Amar\Desktop\Workspace\OCRTextReadAmar\ImageReaderAmar\ImageReaderAmar\bin\Release\ImageReaderAmar.exe.config
+C:\Users\Amar\Desktop\Workspace\OCRTextReadAmar\ImageReaderAmar\ImageReaderAmar\bin\Release\ImageReaderAmar.exe
+C:\Users\Amar\Desktop\Workspace\OCRTextReadAmar\ImageReaderAmar\ImageReaderAmar\bin\Release\ImageReaderAmar.pdb
+C:\Users\Amar\Desktop\Workspace\OCRTextReadAmar\ImageReaderAmar\ImageReaderAmar\bin\Release\Tesseract.dll
+C:\Users\Amar\Desktop\Workspace\OCRTextReadAmar\ImageReaderAmar\ImageReaderAmar\obj\Release\ImageReaderAmar.CustomPopUp.resources
+C:\Users\Amar\Desktop\Workspace\OCRTextReadAmar\ImageReaderAmar\ImageReaderAmar\obj\Release\ImageReaderAmar.Form1.resources
+C:\Users\Amar\Desktop\Workspace\OCRTextReadAmar\ImageReaderAmar\ImageReaderAmar\obj\Release\ImageReaderAmar.Properties.Resources.resources
+C:\Users\Amar\Desktop\Workspace\OCRTextReadAmar\ImageReaderAmar\ImageReaderAmar\obj\Release\ImageReaderAmar.csproj.GenerateResource.cache
+C:\Users\Amar\Desktop\Workspace\OCRTextReadAmar\ImageReaderAmar\ImageReaderAmar\obj\Release\ImageReaderAmar.csproj.CopyComplete
+C:\Users\Amar\Desktop\Workspace\OCRTextReadAmar\ImageReaderAmar\ImageReaderAmar\obj\Release\ImageReaderAmar.exe
+C:\Users\Amar\Desktop\Workspace\OCRTextReadAmar\ImageReaderAmar\ImageReaderAmar\obj\Release\ImageReaderAmar.pdb

@@ -1,0 +1,16 @@
+C:\Users\Amar\Desktop\Workspace\OCRTextReadAmar\ImageReaderAmar\ImageReaderAmar\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\Amar\Desktop\Workspace\OCRTextReadAmar\ImageReaderAmar\ImageReaderAmar\bin\Debug\x86\tesseract41.dll
+C:\Users\Amar\Desktop\Workspace\OCRTextReadAmar\ImageReaderAmar\ImageReaderAmar\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\Amar\Desktop\Workspace\OCRTextReadAmar\ImageReaderAmar\ImageReaderAmar\bin\Debug\x64\tesseract41.dll
+C:\Users\Amar\Desktop\Workspace\OCRTextReadAmar\ImageReaderAmar\ImageReaderAmar\bin\Debug\ImageReaderAmar.exe.config
+C:\Users\Amar\Desktop\Workspace\OCRTextReadAmar\ImageReaderAmar\ImageReaderAmar\bin\Debug\ImageReaderAmar.exe
+C:\Users\Amar\Desktop\Workspace\OCRTextReadAmar\ImageReaderAmar\ImageReaderAmar\bin\Debug\ImageReaderAmar.pdb
+C:\Users\Amar\Desktop\Workspace\OCRTextReadAmar\ImageReaderAmar\ImageReaderAmar\bin\Debug\Tesseract.dll
+C:\Users\Amar\Desktop\Workspace\OCRTextReadAmar\ImageReaderAmar\ImageReaderAmar\obj\Debug\ImageReaderAmar.csprojAssemblyReference.cache
+C:\Users\Amar\Desktop\Workspace\OCRTextReadAmar\ImageReaderAmar\ImageReaderAmar\obj\Debug\ImageReaderAmar.CustomPopUp.resources
+C:\Users\Amar\Desktop\Workspace\OCRTextReadAmar\ImageReaderAmar\ImageReaderAmar\obj\Debug\ImageReaderAmar.Form1.resources
+C:\Users\Amar\Desktop\Workspace\OCRTextReadAmar\ImageReaderAmar\ImageReaderAmar\obj\Debug\ImageReaderAmar.Properties.Resources.resources
+C:\Users\Amar\Desktop\Workspace\OCRTextReadAmar\ImageReaderAmar\ImageReaderAmar\obj\Debug\ImageReaderAmar.csproj.GenerateResource.cache
+C:\Users\Amar\Desktop\Workspace\OCRTextReadAmar\ImageReaderAmar\ImageReaderAmar\obj\Debug\ImageReaderAmar.csproj.CopyComplete
+C:\Users\Amar\Desktop\Workspace\OCRTextReadAmar\ImageReaderAmar\ImageReaderAmar\obj\Debug\ImageReaderAmar.exe
+C:\Users\Amar\Desktop\Workspace\OCRTextReadAmar\ImageReaderAmar\ImageReaderAmar\obj\Debug\ImageReaderAmar.pdb
